@@ -64,3 +64,9 @@ GET : Très visible (URL, historique, logs, signets)
 
 POST : Cachée dans le corps de la requête, non visible dans l’URL
 
+
+
+3\) Extensibilité de HTTP
+
+
+
